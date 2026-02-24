@@ -1,0 +1,7 @@
+/sistema-escolar
+│
+├─ index.html       -> Página de login
+├─ dashboard.html   -> Página onde professores registram presença e dever
+├─ script.js        -> Lógica do sistema (JS)
+├─ style.css        -> Estilo do site
+└─ data.js          -> Armazenamento temporário de usuários e alunos
